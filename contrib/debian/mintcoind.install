@@ -1,0 +1,2 @@
+debian/bin/lovecoind usr/bin
+src/lovecoind usr/lib/lovecoin
