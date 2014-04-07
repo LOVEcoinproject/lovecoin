@@ -1,31 +1,18 @@
-
 LoveCoin (LOVE)
 
-LoveCoin is an innovative, secure and energy efficient PoW/PoS coin. It uses a faster PoW distribution mechanism to distribute the initial coins, then after 5 weeks the coin is basically transferred to a pure PoS coin, where the generation of the coin is mainly through the PoS interests.
-
-LoveCoin also adopt a variable PoS rate, which gives the highest payout at 20% the first year, then decrease 5% per year until the 4th year it reaches annual interest rate of 5%, then it will remain at this rate.
-
-Because after 5 weeks it is basically a pure PoS coin, it does not need to be intensively mined, as the PoW payout will remain the minimum. Most coins will be generated through PoS, thus it is a coin that will save a lot of energy compared to other coins.
-
-LoveCoin will have a total of 70 billion coins. Initially each block will deliver 100000 to 900000 coins randomly. The PoW payout will be halved each week (7 days). After 5 weeks, the PoW payout will be fixed at 1 coin per block.
-
-PoS will start after at least 20 days of holding of the coins in the wallet. With PoS, the coin is more resilient to 51% attack. 
+LOVEcoin is a coin aimed at getting the world in love with crypto. Our long term goal is to educate people about how crypto is better than fiat and why they should love us. We will invest the money raised from the IPO in promoting LOVEcoin in those parts of the world where cryptos are not very popular and where we cannot reach via bitcointalk. This will be our main focus and we will obviously not leave out all the lovely people already involved in the crypto world. Love Never Fails.
 
 Other Specifications:
-	- 30 seconds block target
-	- 100000 - 900000 coins per block initially
-	- PoW payout will be halved every week for the first 5 weeks
-	- After 5 weeks, the PoW payout will be fixed at 1 coin per block
-	- Difficulty retargets every block 
-	- PoS variable interests:
-		- 1st year: 20%
-		- 2nd year: 15%
-		- 3rd year: 10%
-		- 4th and subsequent years: 5%
-	- Total coins will be 70 billions
-	- 4 confirmations for transaction, thus fast 2 mins confirmation for transdactions
-	- 50 confirmations for minted blocks
-	- 1% premine for bounties, giveaways, development, support and maintenance, new feature developments etc.
+	- Algorithm: POW+POS (Scrypt)
+	- POS rate: 1.43%
+	- Max Coins: 143,000,000 LOVE
+	- Block Time: 143 Seconds
+	- Block 2 - 100 Reward: 1 LOVE (To avoid instamine)
+	- Block Reward: 143 LOVE
+	- Difficulty Retarget: Every 14 blocks
+	- Block Halving Rate: Every 6 months
 
-	- Ports: 12788 (connection) and 12789 (RPC)
+	- RPC Port: 14310
+	- P2P Port: 14311
+	- Test net: 14312‏‏
 
